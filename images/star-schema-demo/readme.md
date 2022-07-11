@@ -1,0 +1,1 @@
+Star schema demo resources
